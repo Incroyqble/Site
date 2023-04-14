@@ -1,0 +1,11 @@
+.team-member{
+    background-color: rgb(1, 76, 76);
+    padding: 2%;
+    margin: 2%;
+    border-radius: 25px;
+    
+}
+
+.title{
+    text-align: center;
+}
